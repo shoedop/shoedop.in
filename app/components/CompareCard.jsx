@@ -13,10 +13,10 @@ const CompareCard = ({ img, name, prices, rating }) => {
   const discount = Math.round(((highest - lowest) / highest) * 100);
 
   const platformImages = {
-    Amazon: "/platforms/amazon.PNG",
-    Myntra: "/platforms/myntra.PNG",
-    Flipkart: "/platforms/flipkart.PNG",
-    Ajio: "/platforms/ajio.PNG",
+    Amazon: "/platforms/amazon.png",
+    Myntra: "/platforms/myntra.png",
+    Flipkart: "/platforms/flipkart.png",
+    Ajio: "/platforms/ajio.png",
   };
 
   return (
