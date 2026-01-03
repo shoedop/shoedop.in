@@ -4,7 +4,7 @@
   --color-primary: #D10000;
   --color-secondary: #353535;
 }
-.container{width: 96; margin: auto;}
+
 body {
   background-image: url('/bg/background.jpg');
   background-size: cover;

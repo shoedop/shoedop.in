@@ -4,6 +4,7 @@ import { useState } from "react";
 import FilterSidebar from "./FilterSidebar";
 import { FiFilter, FiChevronDown } from "react-icons/fi";
 import Image from "next/image";
+import Link from "next/link";
 
 export default function ProductPage({ title, products }) {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
@@ -52,20 +53,22 @@ export default function ProductPage({ title, products }) {
         {/* RIGHT Product Grid */}
         <div className="md:col-span-3 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {products.map((item, idx) => (
-            <div key={idx} className="shadow hover:shadow-xl rounded-lg">
-              <Image
-                src={item.img}
-                width={500}
-                height={500}
-                className="rounded-t-lg"
-                alt={item.name}
-              />
-              <div className="p-4">
-                <p className="text-sm text-gray-500">Just In</p>
-                <h3 className="font-semibold">{item.name}</h3>
-                <p className="text-lg font-bold">₹{item.price}</p>
+            <Link href={`/product/${item.id}`} key={idx} className="block shadow hover:shadow-xl rounded-lg transition-transform hover:-translate-y-1 cursor-pointer">
+              <div >
+                <Image
+                  src={item.img}
+                  width={500}
+                  height={500}
+                  className="rounded-t-lg w-full object-cover"
+                  alt={item.name}
+                />
+                <div className="p-4">
+                  <p className="text-sm text-gray-500">Just In</p>
+                  <h3 className="font-semibold text-lg">{item.name}</h3>
+                  <p className="text-xl font-bold mt-1">₹{item.price.toLocaleString()}</p>
+                </div>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
       </div>
