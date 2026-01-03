@@ -1,6 +1,7 @@
 import Header from "./components/Header";
 import type { Metadata } from "next";
 import "./globals.css";
+import Script from "next/script";
 
 
 
@@ -16,6 +17,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <Script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-179594776657147"
+          crossOrigin="anonymous"
+        ></Script>
+      </head>
       <body>
         <Header/>
         {children}

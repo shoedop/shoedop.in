@@ -9,7 +9,7 @@ export const menProducts = [
     category: "Running",
     color: "Black",
     gender: "Men",
-    img: "/products/men/airmax270.JPEG",
+    img: "/products/men/airmax270.jpeg",
     description: "Breathable mesh upper with Max Air cushioning for all-day comfort."
   },
 
@@ -22,7 +22,7 @@ export const menProducts = [
     category: "Lifestyle",
     color: "White",
     gender: "Men",
-    img: "/products/men/airforce1.JPEG",
+    img: "/products/men/airforce1.jpeg",
     description: "Classic streetwear sneaker with premium leather build."
   },
 
@@ -35,7 +35,7 @@ export const menProducts = [
     category: "Running",
     color: "Grey",
     gender: "Men",
-    img: "/products/men/ultraboost22.JPEG",
+    img: "/products/men/ultraboost22.jpeg",
     description: "Responsive Boost cushioning with Primeknit upper."
   },
 
@@ -48,7 +48,7 @@ export const menProducts = [
     category: "Lifestyle",
     color: "White",
     gender: "Men",
-    img: "/products/men/superstar.JPEG",
+    img: "/products/men/superstar.jpeg",
     description: "The iconic shell-toe sneaker loved worldwide."
   },
 
@@ -61,7 +61,7 @@ export const menProducts = [
     category: "Lifestyle",
     color: "Blue",
     gender: "Men",
-    img: "/products/men/pumarsx.JPEG",
+    img: "/products/men/pumarsx.jpeg",
     description: "Chunky retro-futuristic silhouette with soft cushioning."
   },
 
@@ -74,7 +74,7 @@ export const menProducts = [
     category: "Running",
     color: "Orange",
     gender: "Men",
-    img: "/products/men/velocityn2.JPEG",
+    img: "/products/men/velocityn2.jpeg",
     description: "Lightweight running shoe with responsive Nitro cushioning."
   },
 
@@ -87,7 +87,7 @@ export const menProducts = [
     category: "Lifestyle",
     color: "Brown",
     gender: "Men",
-    img: "/products/men/reebokclassic.JPEG",
+    img: "/products/men/reebokclassic.jpeg",
     description: "Timeless design with soft leather for all-day wear."
   },
 
@@ -100,7 +100,7 @@ export const menProducts = [
     category: "Training & Gym",
     color: "Black",
     gender: "Men",
-    img: "/products/men/nanox2.JPEG",
+    img: "/products/men/nanox2.jpeg",
     description: "Stable training shoe designed for heavy lifting and HIIT."
   },
 
@@ -113,7 +113,7 @@ export const menProducts = [
     category: "Lifestyle",
     color: "Green",
     gender: "Men",
-    img: "/products/men/nb574.JPEG",
+    img: "/products/men/nb574.jpeg",
     description: "Retro sneaker with ENCAP cushioning and a stylish silhouette."
   },
 
@@ -126,7 +126,7 @@ export const menProducts = [
     category: "Running",
     color: "Blue",
     gender: "Men",
-    img: "/products/men/nb1080.JPEG",
+    img: "/products/men/nb1080.jpeg",
     description: "Premium running comfort with plush Fresh Foam cushioning."
   }
 ];
