@@ -144,7 +144,7 @@ export const womenProducts = [
     category: "Lifestyle",
     color: "Pink",
     gender: "Women",
-    img: "/products/women/airmax90w.jpg",
+    img: "/products/women/airmax90.jpeg",
     description: "Iconic cushioning and vibrant feminine design."
   },
 
@@ -157,7 +157,7 @@ export const womenProducts = [
     category: "Running",
     color: "Purple",
     gender: "Women",
-    img: "/products/women/pegasus40.jpg",
+    img: "/products/women/pegasus40.jpeg",
     description: "Lightweight daily running shoe with smooth transitions."
   },
 
@@ -170,7 +170,7 @@ export const womenProducts = [
     category: "Casual",
     color: "White",
     gender: "Women",
-    img: "/products/women/courtlegacy.jpg",
+    img: "/products/women/courtlegacy.jpeg",
     description: "Classic court shoe with an elevated platform design."
   },
 
@@ -183,7 +183,7 @@ export const womenProducts = [
     category: "Running",
     color: "Blue",
     gender: "Women",
-    img: "/products/women/ultraboost22w.jpg",
+    img: "/products/women/ultraboost22w.jpeg",
     description: "High-performance running shoe with energy return."
   },
 
@@ -196,7 +196,7 @@ export const womenProducts = [
     category: "Lifestyle",
     color: "Black",
     gender: "Women",
-    img: "/products/women/nmdr1w.jpg",
+    img: "/products/women/nmdr1w.jpeg",
     description: "Modern street sneaker with Boost cushioning."
   },
 
@@ -209,7 +209,7 @@ export const womenProducts = [
     category: "Lifestyle",
     color: "Beige",
     gender: "Women",
-    img: "/products/women/mayzestack.jpg",
+    img: "/products/women/mayzestack.jpeg",
     description: "Bold platform sneaker with premium materials."
   },
 
@@ -222,7 +222,7 @@ export const womenProducts = [
     category: "Running",
     color: "Orange",
     gender: "Women",
-    img: "/products/women/foreverrunw.jpg",
+    img: "/products/women/foreverrunw.jpeg",
     description: "Stability running shoe with responsive Nitro foam."
   },
 
@@ -235,7 +235,7 @@ export const womenProducts = [
     category: "Casual",
     color: "White",
     gender: "Women",
-    img: "/products/women/princessw.jpg",
+    img: "/products/women/princessw.jpeg",
     description: "Soft leather classic with feminine comfort."
   },
 
@@ -248,7 +248,7 @@ export const womenProducts = [
     category: "Running",
     color: "Pink",
     gender: "Women",
-    img: "/products/women/floatride5.jpg",
+    img: "/products/women/floatride5.jpeg",
     description: "Efficient running shoe with smooth cushioning."
   },
 
@@ -261,7 +261,7 @@ export const womenProducts = [
     category: "Lifestyle",
     color: "Grey",
     gender: "Women",
-    img: "/products/women/roavw.jpg",
+    img: "/products/women/roavw.jpeg",
     description: "Casual lifestyle sneaker with Fresh Foam midsole."
   },
 
@@ -274,7 +274,7 @@ export const womenProducts = [
     category: "Lifestyle",
     color: "Yellow",
     gender: "Women",
-    img: "/products/women/nb327w.jpg",
+    img: "/products/women/nb327w.jpeg",
     description: "Retro style sneaker with oversized outsole."
   },
 
@@ -287,7 +287,7 @@ export const womenProducts = [
     category: "Walking",
     color: "Purple",
     gender: "Women",
-    img: "/products/women/archfit.jpg",
+    img: "/products/women/archfit.jpeg",
     description: "Certified arch support with lightweight comfort."
   }
 ];
@@ -304,7 +304,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Black",
     gender: "Men",
-    img: "/products/formal/bata_derby.jpg",
+    img: "/products/formal/bata_derby.jpeg",
     description: "Classic Derby shoe crafted for everyday office comfort."
   },
 
@@ -317,7 +317,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Brown",
     gender: "Men",
-    img: "/products/formal/redtape_oxford.jpg",
+    img: "/products/formal/redtape_oxford.jpeg",
     description: "Premium leather Oxford with a modern polished finish."
   },
 
@@ -330,7 +330,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Black",
     gender: "Men",
-    img: "/products/formal/clarks_tilden.jpg",
+    img: "/products/formal/clarks_tilden.jpeg",
     description: "Elegant cap-toe formal shoe with responsive cushioning."
   },
 
@@ -343,7 +343,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Tan",
     gender: "Men",
-    img: "/products/formal/lp_slipon.jpg",
+    img: "/products/formal/lp_slipon.jpeg",
     description: "Luxury slip-on crafted for premium business attire."
   },
 
@@ -356,7 +356,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Black",
     gender: "Men",
-    img: "/products/formal/hp_jasper.jpg",
+    img: "/products/formal/hp_jasper.jpeg",
     description: "Soft, cushioned formal shoe ideal for long office hours."
   },
 
@@ -369,7 +369,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Brown",
     gender: "Men",
-    img: "/products/formal/metro_loafers.jpg",
+    img: "/products/formal/metro_loafers.jpeg",
     description: "Classic tassel loafers with a timeless design aesthetic."
   },
 
@@ -382,7 +382,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Black",
     gender: "Men",
-    img: "/products/formal/aldo_monkstrap.jpg",
+    img: "/products/formal/aldo_monkstrap.jpeg",
     description: "High-end double monk strap with a luxury finish."
   },
 
@@ -395,7 +395,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Tan",
     gender: "Men",
-    img: "/products/formal/woodland_moccasin.jpg",
+    img: "/products/formal/woodland_moccasin.jpeg",
     description: "Durable moccasins designed for business & smart-casual looks."
   },
 
@@ -408,7 +408,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Black",
     gender: "Men",
-    img: "/products/formal/leecooper_oxford.jpg",
+    img: "/products/formal/leecooper_oxford.jpeg",
     description: "Comfort-driven Oxford with a premium stitched upper."
   },
 
@@ -421,7 +421,7 @@ export const formalProducts = [
     category: "Formal",
     color: "Brown",
     gender: "Men",
-    img: "/products/formal/arrow_elite.jpg",
+    img: "/products/formal/arrow_elite.jpeg",
     description: "Sharp, polished design perfect for suits and formal events."
   }
 ];
@@ -438,7 +438,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "Black/Red",
     gender: "Men",
-    img: "/products/trending/jordan1_mid.jpg",
+    img: "/products/trending/jordan1_mid.jpeg",
     description: "The iconic Air Jordan 1 Mid with premium leather and timeless street style."
   },
 
@@ -451,7 +451,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "Cream",
     gender: "Unisex",
-    img: "/products/trending/yeezy_350.jpg",
+    img: "/products/trending/yeezy_350.jpeg",
     description: "Legendary Yeezy comfort with a sleek design and ultra-soft Boost cushioning."
   },
 
@@ -464,7 +464,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "Black/White",
     gender: "Unisex",
-    img: "/products/trending/dunk_panda.jpg",
+    img: "/products/trending/dunk_panda.jpeg",
     description: "The viral Panda Dunk Low—clean, classic, and always trending."
   },
 
@@ -477,7 +477,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "White/Green",
     gender: "Unisex",
-    img: "/products/trending/nb_550.jpg",
+    img: "/products/trending/nb_550.jpeg",
     description: "Retro basketball style meets modern comfort in the bestselling NB 550."
   },
 
@@ -490,7 +490,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "White/Beige",
     gender: "Men",
-    img: "/products/trending/puma_slipstream.jpg",
+    img: "/products/trending/puma_slipstream.jpeg",
     description: "A stylish 80s retro-inspired sneaker for everyday streetwear."
   },
 
@@ -503,7 +503,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "Cream",
     gender: "Unisex",
-    img: "/products/trending/reebok_clubc.jpg",
+    img: "/products/trending/reebok_clubc.jpeg",
     description: "Timeless vintage sneaker with a clean minimal look and soft leather build."
   },
 
@@ -516,7 +516,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "Triple White",
     gender: "Unisex",
-    img: "/products/trending/af1_white.jpg",
+    img: "/products/trending/af1_white.jpeg",
     description: "The legendary Air Force 1—crisp, clean, and dominating sneaker culture."
   },
 
@@ -529,7 +529,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "White/Blue",
     gender: "Unisex",
-    img: "/products/trending/forum_low.jpg",
+    img: "/products/trending/forum_low.jpeg",
     description: "The Adidas Forum Low blends retro hoops DNA with modern street style."
   },
 
@@ -542,7 +542,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "Black",
     gender: "Unisex",
-    img: "/products/trending/vans_oldskool.jpg",
+    img: "/products/trending/vans_oldskool.jpeg",
     description: "Skate culture classic with signature side stripe and durable suede canvas build."
   },
 
@@ -555,7 +555,7 @@ export const trendingProducts = [
     category: "Trending",
     color: "Multi-Color",
     gender: "Unisex",
-    img: "/products/trending/react_vision.jpg",
+    img: "/products/trending/react_vision.jpeg",
     description: "Futuristic design with React foam delivering unmatched comfort all day."
   }
 ];
@@ -572,7 +572,7 @@ export const vintageProducts = [
     color: "White/Sail",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/nike_blazer_77.jpg",
+    img: "/products/vintage/nike_blazer_77.jpeg",
     description: "Classic 70s basketball sneaker with retro suede details and vintage foam tongue."
   },
 
@@ -585,7 +585,7 @@ export const vintageProducts = [
     color: "Black/White Gum",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/samba_og.jpg",
+    img: "/products/vintage/samba_og.jpeg",
     description: "The iconic Samba—retro, stylish, and essential for classic streetwear."
   },
 
@@ -598,7 +598,7 @@ export const vintageProducts = [
     color: "Grey",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/nb_574.jpg",
+    img: "/products/vintage/nb_574.jpeg",
     description: "Timeless NB 574 with a soft suede upper and heritage running look."
   },
 
@@ -611,7 +611,7 @@ export const vintageProducts = [
     color: "Cream",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/chuck_70.jpg",
+    img: "/products/vintage/chuck_70.jpeg",
     description: "Retro Chuck 70 with upgraded canvas, cushioning, and vintage rubber details."
   },
 
@@ -624,7 +624,7 @@ export const vintageProducts = [
     color: "Navy Blue",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/puma_suede.jpg",
+    img: "/products/vintage/puma_suede.jpeg",
     description: "Old-school suede sneaker that defined street culture in the 80s and 90s."
   },
 
@@ -637,7 +637,7 @@ export const vintageProducts = [
     color: "White",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/reebok_classic.jpg",
+    img: "/products/vintage/reebok_classic.jpeg",
     description: "Clean leather runner with soft cushioning and timeless retro appeal."
   },
 
@@ -650,7 +650,7 @@ export const vintageProducts = [
     color: "White/Red/Blue",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/nike_cortez.jpg",
+    img: "/products/vintage/nike_cortez.jpeg",
     description: "The legendary Nike Cortez—classic running design with vintage soul."
   },
 
@@ -663,7 +663,7 @@ export const vintageProducts = [
     color: "Black/Gum",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/vans_authentic.jpg",
+    img: "/products/vintage/vans_authentic.jpeg",
     description: "Minimalistic skate sneaker with old-school styling and gum outsole."
   },
 
@@ -676,7 +676,7 @@ export const vintageProducts = [
     color: "White/Green",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/asics_japan_s.jpg",
+    img: "/products/vintage/asics_japan_s.jpeg",
     description: "Retro tennis-inspired shoe blending vintage design with modern comfort."
   },
 
@@ -689,7 +689,7 @@ export const vintageProducts = [
     color: "Vintage Yellow",
     gender: "Unisex",
     category: "Vintage",
-    img: "/products/vintage/waffle_trainer.jpg",
+    img: "/products/vintage/waffle_trainer.jpeg",
     description: "Throwback waffle outsole sneaker that started Nike's running revolution."
   }
 ];
@@ -706,7 +706,7 @@ export const streetProducts = [
     color: "Black/White",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/nike_dunk_low.jpg",
+    img: "/products/street/nike_dunk_low.jpeg",
     description: "The iconic Dunk Low, built for skate and street culture."
   },
 
@@ -719,7 +719,7 @@ export const streetProducts = [
     color: "Black",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/vans_oldskool.jpg",
+    img: "/products/street/vans_oldskool.jpeg",
     description: "The OG skate shoe with suede overlays and signature side stripe."
   },
 
@@ -732,7 +732,7 @@ export const streetProducts = [
     color: "White/Blue",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/forum_low_street.jpg",
+    img: "/products/street/forum_low_street.jpeg",
     description: "Retro street silhouette from basketball heritage reimagined."
   },
 
@@ -745,7 +745,7 @@ export const streetProducts = [
     color: "Black/White",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/converse_allstar.jpg",
+    img: "/products/street/converse_allstar.jpeg",
     description: "Timeless canvas sneaker embraced by street culture worldwide."
   },
 
@@ -758,7 +758,7 @@ export const streetProducts = [
     color: "White/Gum",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/puma_ca_pro.jpg",
+    img: "/products/street/puma_ca_pro.jpeg",
     description: "Clean leather upper with street-ready bold midsole."
   },
 
@@ -771,7 +771,7 @@ export const streetProducts = [
     color: "White/Green",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/reebok_revenge.jpg",
+    img: "/products/street/reebok_revenge.jpeg",
     description: "Old-school tennis-inspired street sneaker with retro detailing."
   },
 
@@ -784,7 +784,7 @@ export const streetProducts = [
     color: "White/Black",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/nb_480.jpg",
+    img: "/products/street/nb_480.jpeg",
     description: "Basketball-inspired street shoe with plush cushioning."
   },
 
@@ -797,7 +797,7 @@ export const streetProducts = [
     color: "White/Red",
     gender: "Men",
     category: "Street",
-    img: "/products/street/nike_court_vision.jpg",
+    img: "/products/street/nike_court_vision.jpeg",
     description: "A street reinterpretation of classic 80s hoops design."
   },
 
@@ -810,7 +810,7 @@ export const streetProducts = [
     color: "Black/White",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/slipstream_street.jpg",
+    img: "/products/street/slipstream_street.jpeg",
     description: "Hybrid street/basketball sneaker with retro styling."
   },
 
@@ -823,7 +823,7 @@ export const streetProducts = [
     color: "White/Black",
     gender: "Unisex",
     category: "Street",
-    img: "/products/street/superstar_street.jpg",
+    img: "/products/street/superstar_street.jpeg",
     description: "The iconic shell-toe sneaker—forever a streetwear essential."
   }
 ];

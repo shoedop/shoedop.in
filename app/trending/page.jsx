@@ -6,3 +6,5 @@ export default function trending() {
     <ProductPage title="trending Shoes" products={trendingProducts} />
   );
 }
+
+
